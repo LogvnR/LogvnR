@@ -2,7 +2,7 @@
 
 ## <p align= 'center'> Hey there 😎 </p>
 
-#### <p align= 'center'>I'm Logan, a Self-Taught Front-End Software Engineer from Arizona actively looking for opportunity!</p>
+#### <p align= 'center'>I'm Logan, a Software Developer actively looking for opportunity!</p>
 
 <br />
 
