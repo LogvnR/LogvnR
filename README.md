@@ -2,9 +2,9 @@
 
 ## <p align= 'center'> Hey there 😎 </p>
 
-#### <p align= 'center'>I'm Logan, a Software Developer mainly focused on JavaScript and React actively looking for opportunity!</p>
+#### <p align= 'center'>I'm Logan, a Software Engineer mainly focused on React!</p>
 
-<p align= 'center'>Portfolio Page: <a href="https://www.logvnjs.dev/">logvnjs.dev</a></p>
+<!-- <p align= 'center'>Portfolio Page: <a href="https://www.logvnjs.dev/">logvnjs.dev</a></p> -->
 
 <br />
 
